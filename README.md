@@ -7,6 +7,13 @@ imbalance using time-aware feature engineering, threshold optimization, and
 semi-supervised learning.
 
 ---
+## Dataset
+Due to size constraints, the dataset is not included in this repository.
+
+Please place the following files inside a `data/` directory:
+- `train.parquet` (contains features + target)
+- `test.parquet` (contains features only)
+
 
 ## Key Highlights
 - Time-series–aware feature engineering
