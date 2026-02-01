@@ -24,5 +24,3 @@ Please place the following files inside a `data/` directory:
 - Modular, production-ready codebase
 
 ---
-
-## Project Structure
